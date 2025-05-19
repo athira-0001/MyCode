@@ -1,2 +1,9 @@
-x=1+2
+#!/bin/bash
+#Addition
+#
+a=10
+b=20
+sum = $(($a + $b))
+echo $sum
+
 
